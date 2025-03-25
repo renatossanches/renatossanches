@@ -15,8 +15,8 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"/></a> Java | Spring Boot : Entre 2 a 3 anos (Intermediário a Avançado)
 
 
-<a href="https://firebase.google.com/docs/database?hl=pt-br">  
-- <img src="https://img.icons8.com/officel/80/cloud.png" height="25"  alt="cloud" alt="cloud logo"/> Cloud(Firebase e Azure) : Entre 2 a 3 anos (Intermediário a Avançado)
+  
+- <a href="https://firebase.google.com/docs/database?hl=pt-br"> <img src="https://img.icons8.com/officel/80/cloud.png" height="25"  alt="cloud" alt="cloud logo"/> Cloud(Firebase e Azure) : Entre 2 a 3 anos (Intermediário a Avançado)
 </a>
 
 <a href="https://pt.wikipedia.org/wiki/Banco_de_dados">
