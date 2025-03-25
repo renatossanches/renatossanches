@@ -12,14 +12,14 @@
   
 <h3 align="left">Experiência ~</h3>
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo" /> Java | Spring Boot : Entre 2 a 3 anos (Intermediário a Avançado)
-- <img src="https://img.icons8.com/officel/80/cloud.png" height="25"  alt="cloud" alt="cloud logo"/> Cloud(Firebase e Azure) : Entre 2 a 3 anos (Intermediário a Avançado)
-- <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" height="25"  alt="sql" alt="sql logo"/> Postgree, SQL Server, MySql, MariaDB, MongoDB: Entre 2 a 3 anos (Intermediário a Avançado)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="25" alt="react logo" /> React(Html, Css, JavaScript): Entre 4 a 5 anos (Intermediário)
--  <img src="https://img.icons8.com/ios-filled/50/ffffff/maintenance.png" height="25" alt="ferramenta logo" /> Suporte de informática - Entre 2 a 3 anos 
-- <img src="https://img.icons8.com/ios-filled/50/ffffff/maintenance.png"  height="25" alt="ferramenta logo" /> Concerto de Equipamentos - Entre 2 a 3 anos (Intermediário a Avançado)
-- <img src="https://img.icons8.com/ios-filled/50/ffffff/maintenance.png" height="25" alt="ferramenta logo" /> Logística de Informática - Entre 2 a 3 anos (Intermediário a Avançado)
-- <img src="https://img.icons8.com/fluency/48/microsoft-office-2019.png" height="25" alt="office logo" /> Pacote Office - Entre 8 a 9 anos (Avançado)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo" href="https://pt.wikipedia.org/wiki/Java_(plataforma_de_software)"/> Java | Spring Boot : Entre 2 a 3 anos (Intermediário a Avançado)
+- <img src="https://img.icons8.com/officel/80/cloud.png" height="25"  alt="cloud" alt="cloud logo" href="https://firebase.google.com/docs/database?hl=pt-br"/> Cloud(Firebase e Azure) : Entre 2 a 3 anos (Intermediário a Avançado)
+- <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" height="25"  alt="sql" alt="sql logo" href="https://pt.wikipedia.org/wiki/Banco_de_dados"/> Postgree, SQL Server, MySql, MariaDB, MongoDB: Entre 2 a 3 anos (Intermediário a Avançado)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="25" alt="react logo" href="https://pt.wikipedia.org/wiki/React_(JavaScript)"/> React(Html, Css, JavaScript): Entre 4 a 5 anos (Intermediário)
+-  <img src="https://img.icons8.com/ios-filled/50/ffffff/maintenance.png" height="25" alt="ferramenta logo" href="https://www.linkedin.com/in/renato-sanches-07198b219/details"/> Suporte de informática - Entre 2 a 3 anos 
+- <img src="https://img.icons8.com/ios-filled/50/ffffff/maintenance.png"  height="25" alt="ferramenta logo"  href="https://www.linkedin.com/in/renato-sanches-07198b219/details"/> Concerto de Equipamentos - Entre 2 a 3 anos (Intermediário a Avançado)
+- <img src="https://img.icons8.com/ios-filled/50/ffffff/maintenance.png" height="25" alt="ferramenta logo"  href="https://www.linkedin.com/in/renato-sanches-07198b219/details"/> Logística de Informática - Entre 2 a 3 anos (Intermediário a Avançado)
+- <img src="https://img.icons8.com/fluency/48/microsoft-office-2019.png" height="25" alt="office logo" href="https://pt.wikipedia.org/wiki/Microsoft_Office"/> Pacote Office - Entre 8 a 9 anos (Avançado)
 
 
 <h3 align="left"> Contato Social </h3>
