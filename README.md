@@ -16,8 +16,8 @@
 
 
   
-- <a href="https://firebase.google.com/docs/database?hl=pt-br"> <img src="https://img.icons8.com/officel/80/cloud.png" height="25"  alt="cloud" alt="cloud logo"/> Cloud(Firebase e Azure) : Entre 2 a 3 anos (Intermediário a Avançado)
-</a>
+- <a href="https://firebase.google.com/docs/database?hl=pt-br"> <img src="https://img.icons8.com/officel/80/cloud.png" height="25"  alt="cloud" alt="cloud logo"/></a> Cloud(Firebase e Azure) : Entre 2 a 3 anos (Intermediário a Avançado)
+
 
 <a href="https://pt.wikipedia.org/wiki/Banco_de_dados">
 - <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" height="25"  alt="sql" alt="sql logo"/> Postgree, SQL Server, MySql, MariaDB, MongoDB: Entre 2 a 3 anos (Intermediário a Avançado)
